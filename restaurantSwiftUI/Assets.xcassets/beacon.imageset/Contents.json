@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "devils-on-horseback-478714-hero-01-799b6f22a95b4c1a881bc96ea47bbd22.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

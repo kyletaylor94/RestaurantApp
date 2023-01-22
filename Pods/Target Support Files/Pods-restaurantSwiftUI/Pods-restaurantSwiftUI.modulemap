@@ -1,0 +1,6 @@
+framework module Pods_restaurantSwiftUI {
+  umbrella header "Pods-restaurantSwiftUI-umbrella.h"
+
+  export *
+  module * { export * }
+}
