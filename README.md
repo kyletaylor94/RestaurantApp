@@ -1,7 +1,11 @@
 # RestaurantApp
 Restaurant app in SwiftUI
 
-![Képernyőfotó 2023-01-17 - 10 23 02](https://user-images.githubusercontent.com/113541369/213916801-971b9a5a-d965-4925-a95c-9fc62b27c28f.png)
+
+
+https://user-images.githubusercontent.com/113541369/213917050-1864ae77-ad43-4bde-8617-cf34b59b8c72.mov
+
+
 
 ![Képernyőfotó 2023-01-22 - 13 45 59](https://user-images.githubusercontent.com/113541369/213916812-9a17f670-6cac-47f0-94f1-196a59a32309.png)
 
